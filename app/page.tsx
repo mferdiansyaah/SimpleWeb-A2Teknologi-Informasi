@@ -39,7 +39,7 @@ export default function Component() {
             <h3 className="text-2xl md:text-3xl font-semibold text-gray-800 mb-4">Total Mahasiswa/i</h3>
 
             <div className="relative">
-              <div className="text-8xl md:text-9xl font-bold text-emerald-600 mb-4">20</div>
+              <div className="text-8xl md:text-9xl font-bold text-emerald-600 mb-4">30</div>
               <div className="absolute inset-0 bg-emerald-100 rounded-full opacity-20 blur-3xl"></div>
             </div>
 
