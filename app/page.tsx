@@ -89,7 +89,7 @@ export default function Component() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8 mt-20">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-gray-400">© 2024 Kelas A2 Teknologi Informasi - FIKTI</p>
+          <p className="text-gray-400">© 2025 Kelas A2 Teknologi Informasi - FIKTI</p>
         </div>
       </footer>
     </div>
