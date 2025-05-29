@@ -80,7 +80,7 @@ export default function Component() {
             <h4 className="text-2xl font-bold mb-4">Visi Kelas A2</h4>
             <p className="text-emerald-100 text-lg leading-relaxed">
               Menjadi kelas yang unggul dalam bidang teknologi informasi dengan menghasilkan lulusan yang kompeten,
-              inovatif, dan siap menghadapi tantangan era digital.
+              inovatif, dan siap menghadapi tantangan era digital. <i>Tapi boong hehehe</i>
             </p>
           </div>
         </div>
